@@ -1,0 +1,1 @@
+main = putStrLn "Project: image-recognition-system in Haskell"
